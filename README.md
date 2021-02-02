@@ -15,6 +15,7 @@ k, k+1 ― дискретные шаги по времени.
 10
 
 Для Винеровского процесса: 
+
 Фи:  8
 
 X:  0
@@ -198,6 +199,8 @@ X:  0
 Случайный сколярный процесс: 
 
 [0, 9, 9, 4, -10, 8, -10, 2, 8, 9, 2, -1]
+
+Визуализация результата:
 
 ![screenshot of sample](https://raw.githubusercontent.com/Ysavoskin/MarkovProcess/main/VinerProcess.png)
 ![screenshot of sample](https://raw.githubusercontent.com/Ysavoskin/MarkovProcess/main/MarkovProcess%201.png)
